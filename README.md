@@ -39,7 +39,7 @@ With its comprehensive list of features and intuitive design, TrailBlaze is the 
 ### <p align="center"> Live Site: https://trail-blaze-app.netlify.app/ </p>
 <br>
 
-## Demo Pics:
+## Demo:
 ![1](https://user-images.githubusercontent.com/92919173/218314586-b4a6cd51-72e9-4c5d-83bf-66b615c0fce4.jpg)
 
 
