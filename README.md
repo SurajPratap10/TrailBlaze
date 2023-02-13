@@ -1,6 +1,6 @@
 # TrailBlaze
 
-TrailBlaze is an all-in-one movie and TV show Trailers viewing app built using React, Redux Toolkit, and the TMDB API. With a beautifully designed front-end, it offers a seamless viewing experience for users. The app allows users to choose from various genres and filter their search results by rating, making it easy to find the perfect movie or TV show to watch. In addition, users can search for specific titles, view cast and crew information, and see the duration of each movie or TV show. With so many features packed into one app, TrailBlaze is a must-have for movie and TV show enthusiasts.
+TrailBlaze is an all-in-one movie and TV show Trailers viewing app built using React, Redux Toolkit, and the TMDB API. With a beautifully designed front-end, it offers a seamless viewing experience for users. The app allows users to choose from various genres and filter their search results by rating, making it easy to find the perfect movie or TV show trailer to watch. In addition, users can search for specific titles, view cast and crew information, and see the duration of each movie or TV show. With so many features packed into one app, TrailBlaze is a must-have for movie and TV show enthusiasts.
 
 With its comprehensive list of features and intuitive design, TrailBlaze is the ultimate destination for movie and TV show lovers. So why settle for anything less? Start using TrailBlaze today and elevate your viewing experience!
 <br>
