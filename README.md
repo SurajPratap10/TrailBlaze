@@ -6,7 +6,9 @@ With its comprehensive list of features and intuitive design, TrailBlaze is the 
 <br>
 <br>
 
-[![Video](https://img.youtube.com/vi/HABeQivppoQ/0.jpg)](https://www.youtube.com/watch?v=HABeQivppoQ)
+<h4>Video Link: https://www.youtube.com/watch?v=HABeQivppoQ
+
+Live Site: https://trail-blaze-app.netlify.app/</h4>
 
 ## Technologies Used:
 
@@ -38,8 +40,6 @@ With its comprehensive list of features and intuitive design, TrailBlaze is the 
   <img src="Untitled design.png"/>
 </p>
 
-
-### <p align="center"> Live Site: https://trail-blaze-app.netlify.app/ </p>
 <br>
 
 ## Demo:
