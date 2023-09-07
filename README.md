@@ -5,6 +5,9 @@ TrailBlaze is an all-in-one movie and TV show Trailers viewing app built using R
 With its comprehensive list of features and intuitive design, TrailBlaze is the ultimate destination for movie and TV show lovers. So why settle for anything less? Start using TrailBlaze today and elevate your viewing experience..
 <br>
 <br>
+
+[![Video](https://img.youtube.com/vi/HABeQivppoQ/0.jpg)](https://www.youtube.com/watch?v=HABeQivppoQ)
+
 ## Technologies Used:
 
 1) React JS
